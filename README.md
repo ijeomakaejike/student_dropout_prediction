@@ -1,5 +1,5 @@
-#conclusion 
-#A study was carried out on a dataseet with varying student information. After initial cleaning, preprocessing, , nd exploratory 
+CONCLUSION
+#A study was carried out on a dataseet with varying student information. After initial cleaning, preprocessing and exploratory 
 #analysis, the data was standardized, dimensionality reduction was applied and four distinct clusters were formed. The clusters are
 #characterised as follows:
 #cluster1: High grades, high approvals, paid fees
