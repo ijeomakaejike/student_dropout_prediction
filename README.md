@@ -1,6 +1,6 @@
 CONCLUSION
 #A study was carried out on a dataseet with varying student information. After initial cleaning, preprocessing and exploratory 
-#analysis, the data was standardized, dimensionality reduction was applied and four distinct clusters were formed. The clusters are
+analysis, the data was standardized, dimensionality reduction was applied and four distinct clusters were formed. The clusters are
 #characterised as follows:
 #cluster1: High grades, high approvals, paid fees
 #cluster2:mixed performance, somedebt
@@ -10,4 +10,4 @@ CONCLUSION
 #require additional monitoring and support to ensure sustainability. Cluster 1 has the lowest risk of dropout and would require 
 #little to no attention.
 #These results were then validated using the label feature,  Target that indicates wthether or not a student is a dropout. This
-#additional analysis further strengthened the previous assumptions made the clusters as it correlated strongly wither earlier conclusions
+#additional analysis further strengthened the previous assumptions made the clusters as it correlated strongly wither earlier conclusions.
